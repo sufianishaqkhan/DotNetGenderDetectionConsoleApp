@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GenderDetectionConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Hp\\Desktop\\3055\""
+    }
+  }
+}
